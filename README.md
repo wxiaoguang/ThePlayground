@@ -18,3 +18,5 @@ full link: https://github.com/wxiaoguang/playground/issues/1
 <a href="/docs/a.png"><img src="/docs/a.png" width="40%"></a>
 
 <img src="/docs/a.png" width="40%">
+
+asdf
